@@ -2,10 +2,10 @@
 
 Sega Saturn RGBS connector and Gigabit Ethernet Adaptor for RGR Mini SS CM4 board
 
-<img src="https://github.com/martinx72/MiniSSCM4_MultiAVDIN10_RJ45/blob/main/doc/BoardPreview.png" width="640">  
+<img src="https://raw.githubusercontent.com/martinx72/MiniSSCM4_MultiAVDIN10_RJ45/master/doc/BoardPreview.png" width="640">  
 
 This adaptor works for [RGR Mini SS for CM4](https://retrogamerestore.com/store/minisscm4/ "RGR Mini SS for CM4") 
-<img src="https://github.com/martinx72/MiniSSCM4_MultiAVDIN10_RJ45/blob/main/doc//miniss_adaptor_b.jpg" width="640">  
+<img src="https://raw.githubusercontent.com/martinx72/MiniSSCM4_MultiAVDIN10_RJ45/master/doc/miniss_adaptor_b.jpg" width="640">  
 
 **BOM**. 
 | Item | Part Number |
