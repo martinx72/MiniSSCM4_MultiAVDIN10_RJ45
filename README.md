@@ -18,3 +18,6 @@ This adaptor works for [RGR Mini SS for CM4](https://retrogamerestore.com/store/
 | J3 | 1x4 Male Connector pitch 2.54mm |
 | J5 | 2x5 Male Connector pitch 2.54mm |
 | J6 | 1x4 Male Connector pitch 2.54mm |
+
+Note. the full length 2.54mm pitch connector must be `13mm` , the metal pin lenth from head to head.  
+The most common one is 11mm, it is not what we need here. As the shell would block some space, you need the longer one to pass the block.
